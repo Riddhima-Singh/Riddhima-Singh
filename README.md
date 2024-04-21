@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riddhima-Singh
 - ✨ Currently a 2nd year student pursuing B.Tech in Computer Science
-- 🌱 I'm currently learning different languages to expand my knowledge
+- 🌱 I'm currently learning different skills to expand my knowledge
 - 💞️ I’m looking to collaborate on different projects and works.
 
 <!---
