@@ -4,7 +4,7 @@
 # 💫 About Me:
 ✨ I’m currently a 3rd year student pursuing B.Tech in Computer Science <br> 🌱 I’m currently learning frameworks, courses to expand my skills<br> 👨‍💻 All of my projects are available at: [**CLICK HERE**](https://github.com/Riddhima-Singh?tab=repositories) <br>
 
-<image align="right" alt="coding" width="400" src="https://64.media.tumblr.com/214b2cfdfb22eea881ed40a112a05c03/tumblr_noo8cpsHnb1s68p7oo1_640.gif">
+![til](https://64.media.tumblr.com/214b2cfdfb22eea881ed40a112a05c03/tumblr_noo8cpsHnb1s68p7oo1_640.gif)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3U8C8BpZ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riddhima-singh-11a39428b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Riddhima004s) 
