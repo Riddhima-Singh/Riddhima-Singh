@@ -2,7 +2,7 @@
 <h1 align="center">A passionate developer</h1>
 
 # 💫 About Me:
-✨ I’m currently a 3rd year student pursuing B.Tech in Computer Science <br> 🌱 I’m currently learning frameworks, courses to expand my skills<br> 👨‍💻 All of my projects are available at: [**CLICK HERE**](https://github.com/Riddhima-Singh?tab=repositories) <br>
+✨ I’m a 3rd year student pursuing B.Tech in Computer Science <br> 🌱 I’m currently learning frameworks, courses to expand my skills<br> 👨‍💻 All of my projects are available at: [**CLICK HERE**](https://github.com/Riddhima-Singh?tab=repositories) <br>
 
 ![til](https://64.media.tumblr.com/214b2cfdfb22eea881ed40a112a05c03/tumblr_noo8cpsHnb1s68p7oo1_640.gif)
 
