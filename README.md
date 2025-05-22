@@ -2,7 +2,7 @@
 <h1 align="center">A passionate developer</h1>
 
 # 💫 About Me:
-✨ 🔭 I’m currently a Computer Science student, diving deep into how tech works and how it can make life better. <br> 🌱 Exploring how AI, design, and user experience come together to create smart and helpful tools. <br> 🤝 Enjoy both solo deep work and collaborating with a team to bring ideas to life. <br> 📖 I believe in learning in public — that’s why I share my projects, failures, and progress here. <br> 🎯 My philosophy: Learn. Build. Break. Repeat. <br>👨‍💻 All of my projects are available at: [**CLICK HERE**](https://github.com/Riddhima-Singh?tab=repositories) <br>
+✨ I’m currently a Computer Science student, diving deep into how tech works and how it can make life better. <br> 🌱 Exploring how AI, design, and user experience come together to create smart and helpful tools. <br> 🤝 Enjoy both solo deep work and collaborating with a team to bring ideas to life. <br> 📖 I believe in learning in public — that’s why I share my projects, failures, and progress here. <br> 🎯 My philosophy: Learn. Build. Break. Repeat. <br>👨‍💻 All of my projects are available at: [**CLICK HERE**](https://github.com/Riddhima-Singh?tab=repositories) <br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3U8C8BpZ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riddhima-singh-11a39428b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Riddhima004s) 
